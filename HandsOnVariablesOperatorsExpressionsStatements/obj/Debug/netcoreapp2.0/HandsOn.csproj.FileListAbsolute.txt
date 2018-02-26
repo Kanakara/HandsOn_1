@@ -1,0 +1,10 @@
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\bin\Debug\netcoreapp2.0\HandsOn.deps.json
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\bin\Debug\netcoreapp2.0\HandsOn.runtimeconfig.json
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\bin\Debug\netcoreapp2.0\HandsOn.runtimeconfig.dev.json
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\bin\Debug\netcoreapp2.0\HandsOn.dll
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\bin\Debug\netcoreapp2.0\HandsOn.pdb
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\obj\Debug\netcoreapp2.0\HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\obj\Debug\netcoreapp2.0\HandsOn.AssemblyInfoInputs.cache
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\obj\Debug\netcoreapp2.0\HandsOn.AssemblyInfo.cs
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\obj\Debug\netcoreapp2.0\HandsOn.dll
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundationsHO_1\HandsOnVariablesOperatorsExpressionsStatements\obj\Debug\netcoreapp2.0\HandsOn.pdb
